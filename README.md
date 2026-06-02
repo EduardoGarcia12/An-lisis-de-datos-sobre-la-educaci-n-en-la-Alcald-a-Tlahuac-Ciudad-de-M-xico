@@ -9,13 +9,13 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 ## 🛠️ Tecnologías utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,,tableau, excel" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi" />
 </p>
 
 - Python
-- Tableau
+- Power BI
 - Excel 
-- Pandas  
+- Pandas
 
 ---
 
