@@ -92,6 +92,7 @@ Analizar datos de Pilares Nopalera de los años 2020, 2021, 2022 y 2025 para obs
 - Procesos ETL utilizando Python.
 - Manejo de Tableau para organizar la información. 
 - Diseño de dashboards para la toma de decisiones. 
+- IA generativa para empresas medianas y grandes.
 
 ---
 
